@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+      "claude-code": {
+        "command": "npx",
+        "args": ["-y", "@kunihiros/claude-code-mcp@latest"],
+        "env": {
+          "CLAUDE_BIN": "/Users/matildaglynn/.nvm/versions/node/v22.17.1/bin/claude"
+        }
+      }
+    }
+  }
